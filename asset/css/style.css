@@ -1,0 +1,14 @@
+.site-header {
+  background-image: url(../img/pexels-photo-260689.jpeg); 
+} 
+
+.site-header{ 
+  margin-top: 76px
+  color: #ffffff; 
+} 
+
+.divider { 
+  border-width: 0.5rem
+  border-color: #f4623a; 
+  max-width: 3.25rem 
+}
